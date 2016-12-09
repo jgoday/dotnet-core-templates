@@ -1,0 +1,3 @@
+[ ] Avoid passwords in appsettings.json // https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets
+[ ] Data migrations
+[ ] DataAnnotations.Schema Table does not work ??
